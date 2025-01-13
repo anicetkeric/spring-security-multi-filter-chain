@@ -16,7 +16,7 @@ Clone the project
 
 ## Documentation
 
-[Medium Story]()
+[Medium Story](https://boottechnologies-ci.medium.com/spring-security-6-multiple-securityfilterchain-instances-e63c328fa932)
 
 ## Authors
 
